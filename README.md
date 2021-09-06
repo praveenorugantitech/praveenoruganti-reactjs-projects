@@ -62,13 +62,13 @@
 
 - **LinkedIn Clone** [Live Demo](https://praveenoruganti-linkedin-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-linkedin-clone-reactjs)
 
-- **YouTube Clone** [Live Demo](https://praveenoruganti.github.io/praveenoruganti-youtube-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-youtube-clone-reactjs)
+- **YouTube Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-youtube-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-youtube-clone-reactjs)
 
-- **Netflix Clone** [Live Demo](https://praveenoruganti.github.io/praveenoruganti-netflix-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-netflix-clone-reactjs)
+- **Netflix Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-netflix-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-netflix-clone-reactjs)
 
-- **Airbnb Clone** [Live Demo](https://praveenoruganti.github.io/praveenoruganti-airbnb-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-airbnb-clone-reactjs)
+- **Airbnb Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-airbnb-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-airbnb-clone-reactjs)
 
-- **Tesla Clone** [Live Demo](https://praveenoruganti.github.io/praveenoruganti-tesla-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-tesla-clone-reactjs)
+- **Tesla Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-tesla-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-tesla-clone-reactjs)
 
 ## Game Apps
 
@@ -107,7 +107,7 @@
 
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenoruganti-user-registration-app-mysql-reactjs)
 
-- **Quiz** [Live Demo](https://praveenoruganti.github.io/praveenoruganti-quiz-reactjs/)  [Source Code](https://github.com/praveenoruganti/praveenoruganti-quiz-reactjs)
+- **Quiz** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-quiz-reactjs/)  [Source Code](https://github.com/praveenoruganti/praveenoruganti-quiz-reactjs)
 
 - **Piano** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-piano-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-piano-reactjs)
 
