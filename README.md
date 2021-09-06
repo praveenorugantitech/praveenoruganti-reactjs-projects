@@ -103,7 +103,7 @@
 
 - **Cart** [Live Demo](https://praveenorugantitech.github.io/raveenoruganti-cart-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-cart-reactjs)
 
-- **User Registration using Firebase** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-user-registration-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-user-registration-reactjs)
+- **User Registration using Firebase** [Live Demo](https://praveenoruganti-user-reg.firebaseapp.com/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-user-registration-reactjs)
 
 - **User Registration using MySQL** [Source Code](https://github.com/praveenorugantitech/praveenoruganti-user-registration-app-mysql-reactjs)
 
