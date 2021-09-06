@@ -48,7 +48,7 @@
 
 ## Clone Apps
 
-- **Amazon Clone** [Live Demo](https://praveenoruganti-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
+- **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
 
 - **Twitter Clone** [Live Demo](https://praveenoruganti-twitter-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-twitter-clone-reactjs)
 
