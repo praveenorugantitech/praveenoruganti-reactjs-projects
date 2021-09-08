@@ -47,6 +47,9 @@
 - **SpreedSheet Update** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-spreadhseet-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-spreadhseet-reactjs)
 
 - **Vaccine Availability** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-cowin-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-cowin-reactjs)
+
+- **YouTube Comments Analyst** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-youtube-comments-analyst/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-youtube-comments-analyst)
+
 ## Clone Apps
 
 - **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
