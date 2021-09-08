@@ -50,6 +50,8 @@
 
 - **YouTube Comments Analyst** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-youtube-comments-analyst/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-youtube-comments-analyst)
 
+- **Hacker News** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-hackernews-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-hackernews-reactjs)
+
 ## Clone Apps
 
 - **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
