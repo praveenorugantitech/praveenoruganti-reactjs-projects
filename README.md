@@ -52,6 +52,8 @@
 
 - **Hacker News** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-hackernews-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-hackernews-reactjs)
 
+- **Employee Registration** [Live Demo](https://praveenorugantitech.github.io/praveen-emp-reg-reactjs)  [Source Code](https://github.com/praveenorugantitech/praveen-emp-reg-reactjs)
+
 ## Clone Apps
 
 - **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
