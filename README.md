@@ -54,6 +54,8 @@
 
 - **Employee Registration** [Live Demo](https://praveenoruganti-emp-reg-ui.herokuapp.com/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-emp-reg-ui)
 
+- **IPL Dashboard** [Live Demo](https://praveenoruganti-ipl-dashboard.herokuapp.com/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-ipl-dashboard)
+
 ## Clone Apps
 
 - **Amazon Clone** [Live Demo](https://praveenorugantitech-amaz-clone.firebaseapp.com/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-amazon-clone-reactjs)
