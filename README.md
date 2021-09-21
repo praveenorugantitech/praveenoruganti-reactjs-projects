@@ -6,6 +6,8 @@
 
 - **Advice** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-advice-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-advice-reactjs)
 
+- **Online Shop** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-shop-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-shop-reactjs)
+
 - **Breaking Bad TV Show Cast** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-breaking-bad-cast-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-breaking-bad-cast-reactjs)
 
 - **Link Shortner** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-link-shortner-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-link-shortner-reactjs)
