@@ -82,6 +82,8 @@
 
 - **Tesla Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-tesla-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-tesla-clone-reactjs)
 
+- **Linktree Clone** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-linktree-clone-reactjs/) [Source Code](https://github.com/praveenorugantitech/praveenoruganti-linktree-clone-reactjs)
+
 ## Game Apps
 
 - **Roll Dice** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-roll-dice-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-roll-dice-reactjs)
@@ -124,3 +126,7 @@
 - **Piano** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-piano-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-piano-reactjs)
 
 - **Beach Resort** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-beach-resort-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-beach-resort-reactjs)
+
+- **Custom Swagger UI** [Live Demo](https://praveen-custom-swagger-ui.herokuapp.com/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-custom-swagger-ui)
+
+- **Math Quiz** [Live Demo](https://praveenorugantitech.github.io/praveenoruganti-math-quiz-reactjs/)  [Source Code](https://github.com/praveenorugantitech/praveenoruganti-math-quiz-reactjs)
